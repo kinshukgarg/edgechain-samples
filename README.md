@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/medicine-checker.git
+git clone https://github.com/kinshukgarg/edgechain-samples
 cd medicine-checker/frontend
 Install dependencies:
 
